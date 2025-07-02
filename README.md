@@ -18,7 +18,9 @@
 
 ## 📦 Projects
 
-- 🔹 [BudgetApp](https://github.com/kourtispanos/budget-app) – Simple budget calculator built with Python  
+- 🔹 [BudgetApp](https://github.com/kourtispanos/budget-app) – Simple budget calculator built with Python
+- 🔹 [voice_assistant]()
+
 - 🔜 More projects coming soon...
 
 ## 📬 Contact
