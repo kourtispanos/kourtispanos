@@ -24,7 +24,7 @@
 ## 📬 Contact
 
 - Email: panos3484@gmail.com  
-- LinkedIn: [Panagiotis Kourtis](https://www.linkedin.com/in/your-link-here)
+- LinkedIn: [Panagiotis Kourtis](https://www.linkedin.com/in/panagiotis-kourtis-96b773316/)
 
 ---
 
