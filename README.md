@@ -23,8 +23,8 @@
 
 ## 📬 Επικοινωνία
 
-- Email: kourtispanos@example.com
-- LinkedIn: [LinkedIn προφίλ σου (αν έχεις)]
+- Email: panos3484@gmail.com
+- LinkedIn: [Panagiotis kourtis]
 
 ---
 
