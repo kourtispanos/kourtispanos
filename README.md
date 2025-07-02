@@ -1,14 +1,14 @@
-# 👋 Γεια σου! Είμαι ο Παναγιώτης (kourtispanos)
+# 👋 Hello! I'm Panagiotis (kourtispanos)
 
-🎯 Φοιτητής & προγραμματιστής με πάθος για Python, Web Development και Cybersecurity.
+🎯 A student & aspiring developer with a passion for Python, Web Development, and Cybersecurity.
 
-## 🚀 Τι κάνω
+## 🚀 What I Do
 
-- 💻 Μαθαίνω και δημιουργώ projects στο GitHub
-- 🔐 Ασχολούμαι με ethical hacking και network security
-- 🧠 Αναπτύσσω συνεχώς τις ικανότητές μου
+- 💻 Learning and building projects on GitHub  
+- 🔐 Exploring ethical hacking and network security  
+- 🧠 Constantly improving my skills and knowledge  
 
-## 🛠️ Τεχνολογίες & Εργαλεία
+## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,14 +18,15 @@
 
 ## 📦 Projects
 
-- 🔹 [BudgetApp](https://github.com/kourtispanos/budget-app) – Υπολογισμός προϋπολογισμού με Python
-- 🔜 Περισσότερα έρχονται σύντομα...
+- 🔹 [BudgetApp](https://github.com/kourtispanos/budget-app) – Simple budget calculator built with Python  
+- 🔜 More projects coming soon...
 
-## 📬 Επικοινωνία
+## 📬 Contact
 
-- Email: panos3484@gmail.com
-- LinkedIn: [Panagiotis kourtis]
+- Email: panos3484@gmail.com  
+- LinkedIn: [Panagiotis Kourtis](https://www.linkedin.com/in/your-link-here)
 
 ---
 
-*👀 Ευχαριστώ που επισκέφθηκες το προφίλ μου! Μείνε συντονισμένος για περισσότερα!*
+*👀 Thanks for visiting my profile! Stay tuned for more!*
+
