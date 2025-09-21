@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Panagiotis (kourtispanos)
+# 👋 Hello! I'm Panagiotis 
 
 🎯 A student & aspiring developer with a passion for Python, Web Development, and Cybersecurity.
 
